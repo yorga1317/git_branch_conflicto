@@ -1,7 +1,7 @@
 # Resolución de conflicto con GIt
 
 ## autores del conflicto
-- [Adrian Ruiz](https://github.com/addsdev-campuslands)
+- [Daniel Plazas](https://github.com/Dxnxxl06)
 
 ## Autores de paz
-- [Camper](https://github.com/yorga1317)
+- [ Cristian Mayorga](https://github.com/yorga1317)
